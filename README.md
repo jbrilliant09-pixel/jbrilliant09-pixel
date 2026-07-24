@@ -19,8 +19,8 @@
 ---
 
 ### 🌟 Featured Open-Source Contributions & Bounties
-* **[Repository / Bounty Name]** – Resolved build pipeline issues and merged feature updates ([#538](https://github.com/))
-* **[Repository / Bounty Name]** – Implemented core utility feature and bug fixes ([#PR Link](https://github.com/))
+* **tscircuit/rp2040-zero** – Resolved build pipeline issues and merged feature updates ([#538](https://github.com/))
+* **tscircuit/rp2040-zero** – Implemented core utility feature and bug fixes ([#PR Link](https://github.com/))
 
 ---
 
