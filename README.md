@@ -26,4 +26,4 @@
 
 ### 📫 Connect With Me
 * **GitHub:** [@jbrilliant09-pixel](https://github.com/jbrilliant09-pixel)
-* **Email:** your.email@example.com
+* **Email:** jbrilliant09@gmail.com
